@@ -164,3 +164,13 @@ document.addEventListener("DOMContentLoaded", function () {
 })
 
 
+/*const test = { karte: 5 }
+const meineKarte = test.karte
+
+const { karte } = test
+const karte = test.karte
+
+
+function(obj) {
+    const {random} = obj
+}*/
